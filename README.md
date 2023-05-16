@@ -1,3 +1,5 @@
 # Sketch-to-Anime-colorizer
+This project resolves the problem of cartoon images through automated cartoon image synthesis. This is the main issue because it takes lot of time to produce these graphics onto the PC for example digital painting, animation and game design and it can be reduced by this by converting the sketches to high quality images by using deep learning.
+Especially, it is difficult to produce high-quality cartoon images from drawings since the system must learn the fundamental composition and characteristics of cartoon images, such as color and shape, from very limited input data. One answer to this issue is the technique suggested in the paper, which makes use of a generative adversarial network (GAN). It is possible to progress the fields of machine learning and computer vision by researching this issue and coming up with practical solutions that have applications in a number of different industries.
 
 https://www.kaggle.com/datasets/zhouxm/anime-sketch-colorization/code dataset used.
